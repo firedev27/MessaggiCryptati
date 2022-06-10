@@ -1,0 +1,16 @@
+C:\Users\Ivan\Desktop\Converter\Converter2.0\Converter2.0\bin\Release\netcoreapp3.0\Converter.exe
+C:\Users\Ivan\Desktop\Converter\Converter2.0\Converter2.0\bin\Release\netcoreapp3.0\Converter.deps.json
+C:\Users\Ivan\Desktop\Converter\Converter2.0\Converter2.0\bin\Release\netcoreapp3.0\Converter.runtimeconfig.json
+C:\Users\Ivan\Desktop\Converter\Converter2.0\Converter2.0\bin\Release\netcoreapp3.0\Converter.runtimeconfig.dev.json
+C:\Users\Ivan\Desktop\Converter\Converter2.0\Converter2.0\bin\Release\netcoreapp3.0\Converter.dll
+C:\Users\Ivan\Desktop\Converter\Converter2.0\Converter2.0\bin\Release\netcoreapp3.0\Converter.pdb
+C:\Users\Ivan\Desktop\Converter\Converter2.0\Converter2.0\obj\Release\netcoreapp3.0\Converter2.0.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\Converter\Converter2.0\Converter2.0\obj\Release\netcoreapp3.0\Converter2._0.Form1.resources
+C:\Users\Ivan\Desktop\Converter\Converter2.0\Converter2.0\obj\Release\netcoreapp3.0\Converter2._0.Properties.Resources.resources
+C:\Users\Ivan\Desktop\Converter\Converter2.0\Converter2.0\obj\Release\netcoreapp3.0\Converter2.0.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\Converter\Converter2.0\Converter2.0\obj\Release\netcoreapp3.0\Converter2.0.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\Converter\Converter2.0\Converter2.0\obj\Release\netcoreapp3.0\Converter2.0.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\Converter\Converter2.0\Converter2.0\obj\Release\netcoreapp3.0\Converter2.0.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Converter\Converter2.0\Converter2.0\obj\Release\netcoreapp3.0\Converter.dll
+C:\Users\Ivan\Desktop\Converter\Converter2.0\Converter2.0\obj\Release\netcoreapp3.0\Converter.pdb
+C:\Users\Ivan\Desktop\Converter\Converter2.0\Converter2.0\obj\Release\netcoreapp3.0\Converter2.0.genruntimeconfig.cache
